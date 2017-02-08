@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/java" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="classes89" level="project" />
+    <orderEntry type="library" name="classes28" level="project" />
+    <orderEntry type="library" name="classes40" level="project" />
+    <orderEntry type="library" name="classes7" level="project" />
+    <orderEntry type="library" name="classes86" level="project" />
+    <orderEntry type="library" name="libs1" level="project" />
+    <orderEntry type="library" name="classes130" level="project" />
+    <orderEntry type="library" name="classes15" level="project" />
+    <orderEntry type="library" name="classes48" level="project" />
+    <orderEntry type="library" name="classes61" level="project" />
+    <orderEntry type="library" name="classes90" level="project" />
+    <orderEntry type="library" name="componentClasses1" level="project" />
+    <orderEntry type="library" name="combined" level="project" />
+    <orderEntry type="library" name="classes126" level="project" />
+    <orderEntry type="library" name="classes35" level="project" />
+    <orderEntry type="library" name="classes132" level="project" />
+    <orderEntry type="library" name="classes14" level="project" />
+    <orderEntry type="library" name="componentClasses2" level="project" />
+    <orderEntry type="library" name="classes87" level="project" />
+    <orderEntry type="library" name="classes10" level="project" />
+    <orderEntry type="library" name="main3" level="project" />
+    <orderEntry type="library" name="classes113" level="project" />
+    <orderEntry type="library" name="componentClasses" level="project" />
+    <orderEntry type="library" name="classes12" level="project" />
+    <orderEntry type="library" name="classes32" level="project" />
+    <orderEntry type="library" name="classes42" level="project" />
+    <orderEntry type="library" name="classes43" level="project" />
+    <orderEntry type="library" name="classes76" level="project" />
+    <orderEntry type="library" name="classes16" level="project" />
+    <orderEntry type="library" name="classes21" level="project" />
+    <orderEntry type="library" name="combined1" level="project" />
+  </component>
+</module>
